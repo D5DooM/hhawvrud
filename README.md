@@ -1,2 +1,1 @@
-an ai coded bot that help make the pump.fun pumping profits more interesting
-will update this repository on aweekly basis as this will be a pivot point for me to get such fundings
+I created an AI-coded bot to facilitate increased profits from pump.fun. The bot is designed to help users profit from pumps by automating the buying and selling of tokens. I intend to continue developing the bot and updating this repository monthly. This repository is a linchpin for me to secure funding for my project. I am committed to the success of this endeavor.
